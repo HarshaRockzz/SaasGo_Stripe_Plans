@@ -45,7 +45,7 @@ pwd   : asdfghjkl
    ```bash
    //.env backend
    DATABASE_URL //is mongodb url
-   SECRET=ThisIsOurLittleSecret
+   SECRET=ThisIsSecret
    STRIPE_SECRET_KEY
 
    //.env frontend
