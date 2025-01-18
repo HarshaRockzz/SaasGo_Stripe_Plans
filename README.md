@@ -1,10 +1,7 @@
-# SAASGo , a SaaS WebApp with Stripe Integration
+# SaasGo , a SaaS WebApp with Stripe Integration
 
-Welcome to the repository of our SAASGo WebApp, a comprehensive platform that offers various subscription plans through the Stripe payment gateway. This application allows users to browse different services, manage subscriptions, and securely process payments.
+Welcome to the repository of our SaasGo WebApp, a comprehensive platform that offers various subscription plans through the Stripe payment gateway. This application allows users to browse different services, manage subscriptions, and securely process payments.
 
-## Website
-
-Visit our live application: [SaaSGo WebApp](https://saas-tgo.vercel.app/)
 
 ## Login Credentials :
 ### SuperAdmin :
@@ -16,10 +13,6 @@ pwd   : asdfghjkl
 ### User
 email : user@app.com , 
 pwd   : asdfghjkl
-
-## Demo Video
-
-For a detailed walkthrough, watch our [Implementation Video](https://www.youtube.com/watch?v=vsmpp0uSkZ4).
 
 ## Features
 
@@ -36,13 +29,6 @@ For a detailed walkthrough, watch our [Implementation Video](https://www.youtube
 - **Backend**: Node JS, Express JS
 - **Database**: MongoDB, Mongoose
 - **API**: REST API
-
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) and npm (Node Package Manager)
-- [Git](https://git-scm.com/) for cloning the repository
 
 ### Installation
 
@@ -71,8 +57,6 @@ For a detailed walkthrough, watch our [Implementation Video](https://www.youtube
    //frontend
    npm start
 
-# Contributing
-Your contributions are always welcome!
 
 
 
